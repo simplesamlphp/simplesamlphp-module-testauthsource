@@ -1,5 +1,5 @@
 {
-    "name": "simplesamlphp/simplesamlphp-module-testauthsource",
+    "name": "simplesamlphpmiq/simplesamlphp-module-testauthsource",
     "description": "This is a authentication module used by the test suite",
     "type": "simplesamlphp-module",
     "keywords": ["simplesamlphp", "testauthsource"],
